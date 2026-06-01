@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="razorpay_img.png" alt="Razorpay Clone" width="200"/>
+
 
 # 💳 Razorpay Clone
 
